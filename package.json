@@ -1,0 +1,1 @@
+{"description":"One server serving the OpenAI and Anthropic APIs over ten simulated free-tier providers, routing each request to the strongest free model that can serve it.","engines":{"node":">=22.18"},"license":"MIT","name":"free-model-aggregator-01-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
